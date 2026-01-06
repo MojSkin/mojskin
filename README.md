@@ -1,59 +1,41 @@
 <h1 align="center">Hi, I'm Mojtaba 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | Laravel & Vue.js Expert | API Integration & Automation Specialist</strong>
+  <strong>Software Engineer • Laravel, Vue.JS, Delphi & Rust Developer • API Integration Specialist</strong>
 </p>
 
 <p align="center">
-  Passionate about building scalable systems, clean architecture, and seamless user experiences.
+  I enjoy building clean, scalable systems and crafting smooth user experiences with a focus on maintainability and clarity.
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Final-year **B.Sc. in Software Engineering**
-- 🧩 Specialized in **Laravel**, **Vue.js**, **REST APIs**, **OAuth**, **NetSuite RESTlet**, and workflow automation  
-- 🛠 Skilled in debugging complex flows, scripting, and optimizing backend performance  
-- 🧠 I love turning technical challenges into elegant, maintainable solutions  
-- ✍️ Also great at writing clear documentation and translating technical concepts for different audiences  
-- 🔍 Curious about system design, business strategy, and practical tools that improve daily workflows  
-
----
-
-## 🧰 Tech Stack
+## 🚀 Tech Stack
 
 ### **Backend**
-- PHP • Laravel • REST APIs • OAuth2 • Queue Systems • MySQL • Redis  
-- API Integration (NetSuite, Payment Gateways, Custom Services)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,rust,mysql,sqlite,postman,windows,linux,ubuntu,docker,wordpress" />
+</p>
 
 ### **Frontend**
-- Vue.js • Pinia • TailwindCSS • Vite • SPA/SSR Patterns
+<p>
+  <img src="https://skillicons.dev/icons?i=htmx,html,css,bootstrap,vuetify,tailwind,vite,js,ts,vue" />
+</p>
 
-### **DevOps & Tools**
-- Docker • Git • CI/CD • Linux • Nginx  
-- Postman • Insomnia • Laravel Telescope • Sentry
-
-### **Other Skills**
-- Debugging & Troubleshooting  
-- Workflow Automation  
-- Writing clean, maintainable code  
-- Technical Documentation  
+### **Tools & Workflow**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,phpstorm,vscode,bash,powershell" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 About Me
 
-### 🔹 **Scalable Laravel API Boilerplate**
-A production-ready API structure with authentication, role-based access, queue jobs, caching, and modular architecture.
-
-### 🔹 **Vue.js Admin Dashboard**
-A clean, fast, and fully component-based admin panel with reusable UI patterns.
-
-### 🔹 **NetSuite RESTlet Integration Layer**
-A robust integration layer for syncing data between Laravel and NetSuite with retry logic, logging, and monitoring.
-
-*(Add links to your repos when ready)*
+- Final-year **B.Sc. Software Engineering** student  
+- Experienced in **Laravel**, **Vue.js**, **REST APIs**, **OAuth**, **NetSuite RESTlet**  
+- Skilled in debugging, automation, and designing maintainable backend architectures  
+- Passionate about clean code, system design, and practical problem‑solving  
+- Enjoy writing clear documentation and simplifying complex technical concepts  
 
 ---
 
@@ -64,27 +46,41 @@ A robust integration layer for syncing data between Laravel and NetSuite with re
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mojskin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mojskin&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 📝 Latest Writings & Notes
-- Clean API design principles  
-- How to debug OAuth flows efficiently  
-- Practical tips for building maintainable Laravel apps  
+## 🔗 Connect With Me
 
----
-
-## 📫 Contact Me
-
-- Email: **mojtaba.meskin@gmail.com**
-- Instagram: **https://instagram.com/mojtaba.meskin@gmail.com**
-- Telegram: **https://t.me/@mojtaba.meskin**
-- Website/Portfolio: UNDER CONSTRUCTION
+<p align="center">
+  <a href="https://github.com/mojskin">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/mojtaba.meskin">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/+989187378304">
+    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mojskin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mojtaba.meskin@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mojskin.ir">
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <strong>“Build systems that scale, code that lasts, and experiences that matter.”</strong>
+  <em>“Build with clarity. Ship with confidence.”</em>
 </p>
