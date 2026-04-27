@@ -54,27 +54,27 @@
 
 <p align="center">
   <a href="https://github.com/mojskin">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/mojtaba.meskin">
-    <img src="https://skillicons.dev/icons?i=telegram" />
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/+989187378304">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mojskin/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mojtaba.meskin@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://mojskin.ir">
-    <img src="https://skillicons.dev/icons?i=wordpress" />
+    <img src="https://img.icons8.com/color/48/external-link-squared.png" alt="Website" />
   </a>
 </p>
 
