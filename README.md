@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mojtaba 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer • Laravel, Vue.JS, Delphi & Rust Developer • API Integration Specialist</strong>
+  <strong>Software Engineer • Laravel, Vue.JS, Delphi, Rust, Pascal, Foxpro, Visual/Quick Basic Developer • API Integration Specialist</strong>
 </p>
 
 <p align="center">
@@ -81,5 +81,19 @@
 ---
 
 <p align="center">
-  <em>“Build with clarity. Ship with confidence.”</em>
+  <em>“Hope for the best, prepare for the worst.”</em>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mojskin&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?username=mojskin&type=vertical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mojskin&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mojskin&icon=1&color=1)](https://visitcount.itsvg.in)
