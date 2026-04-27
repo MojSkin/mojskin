@@ -74,7 +74,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://mojskin.ir">
-    <img src="https://img.icons8.com/color/48/external-link-squared.png" alt="Website" />
+    <img src="https://img.icons8.com/color/48/link--v1.png" alt="Website" />
   </a>
 </p>
 
