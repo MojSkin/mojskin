@@ -41,14 +41,6 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mojskin&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mojskin&show_icons=true&theme=tokyonight" />
-</p>
-
 ![](https://github-readme-stats.vercel.app/api?username=mojskin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mojskin&theme=dark&hide_border=false)<br/>
